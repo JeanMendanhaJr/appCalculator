@@ -7,10 +7,10 @@
 </h4>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JeanMendanhaJr/css-CheckBoxEfect">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JeanMendanhaJr/appCalculator">
     
   <a href="https://github.com/JeanMendanhaJr/css-CheckBoxEfect/commits/master">
-    <img alt="last commit" src="https://img.shields.io/github/last-commit/JeanMendanhaJr/css-CheckBoxEfect">
+    <img alt="last commit" src="https://img.shields.io/github/last-commit/JeanMendanhaJr/appCalculator">
   </a>
   
   <a href="https://www.linkedin.com/in/jeancarlosmendanha/">
@@ -19,7 +19,7 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/JeanMendanhaJr/css-CheckBoxEfect/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JeanMendanhaJr/BeTheHero?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JeanMendanhaJr/appCalculator?style=social">
   </a>
 </p>
 
