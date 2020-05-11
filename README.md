@@ -1,5 +1,5 @@
 <h4 align="center">
-    <img src="./img/topo_black.png" width="350px" /><br>
+    <img src="./src/img/topo_black.png" width="350px" /><br>
 </h4>
 
 <h4 align="center"> 
@@ -34,21 +34,22 @@
 
 ## 💻 Project
 
-*Esse projeto tem como objetivo utilizar unicamente CSS para fazer a animação de um CheckBox.*
+*This project was created in JavaScript, CSS and using React. It aims to recreate the features and layout of the calculator on Apple devices.*
 
 ## 🔨 Tools
 
-*This project was used only HTML5 and CSS3 codes for its animation.*
+*This project was used only JavaScript, CSS and React*
 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+- [React](https://pt-br.reactjs.org/)
 
     
 ## 🔖 Layout
 
 * State 1
 <h5 align="center">
-    <img src="./img/topo_black.png" width="350px" /><br>
+    <img src="./src/img/preview_calculator.png" width="350px" /><br>
 </h5>
 
 ## 🔩 How To Use
