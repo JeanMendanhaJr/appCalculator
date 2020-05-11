@@ -1,68 +1,78 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">
+    <img src="./img/topo_black.png" width="350px" /><br>
+</h4>
 
-## Available Scripts
+<h4 align="center"> 
+	:heavy_check_mark: CheckBox Efect :heavy_check_mark:
+</h4>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JeanMendanhaJr/css-CheckBoxEfect">
+    
+  <a href="https://github.com/JeanMendanhaJr/css-CheckBoxEfect/commits/master">
+    <img alt="last commit" src="https://img.shields.io/github/last-commit/JeanMendanhaJr/css-CheckBoxEfect">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jeancarlosmendanha/">
+    <img alt="Made by Jean Mendanha" src="https://img.shields.io/badge/made%20by-JeanMendanha-%2304D361">
+  </a>
 
-### `yarn start`
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/JeanMendanhaJr/css-CheckBoxEfect/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JeanMendanhaJr/BeTheHero?style=social">
+  </a>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 💻 Project
 
-### `yarn test`
+*Esse projeto tem como objetivo utilizar unicamente CSS para fazer a animação de um CheckBox.*
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔨 Tools
 
-### `yarn build`
+*This project was used only HTML5 and CSS3 codes for its animation.*
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+    
+## 🔖 Layout
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* State 1
+<h5 align="center">
+    <img src="./img/topo_black.png" width="350px" /><br>
+</h5>
 
-### `yarn eject`
+## 🔩 How To Use
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+To clone and run this application.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤔 How to contribute
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Make a fork;
+- Create a branck with your feature: `git checkout -b my-feature`;
+- Commit changes: `git commit -m 'feat: My new feature'`;
+- Make a push to your branch: `git push origin my-feature`.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+After merging your receipt request to done, you can delete a branch from yours.
 
-## Learn More
+## 📝 License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+<p align="center">Made by <strong>Jean Mendanha ♠️ </p> 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
